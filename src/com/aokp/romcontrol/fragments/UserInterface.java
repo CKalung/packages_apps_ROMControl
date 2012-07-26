@@ -31,6 +31,7 @@ public class UserInterface extends AOKPPreferenceFragment {
     private static final String PREF_STATUS_BAR_NOTIF_COUNT = "status_bar_notif_count";
 
     CheckBoxPreference mEnableVolumeOptions;
+    CheckBoxPreference mStatusBarNotifCount;
 
 
     @Override
